@@ -1,2 +1,2 @@
-# setup-script
-Setup script to for new installs
+# setup-env
+Setup script to for new distro installs
